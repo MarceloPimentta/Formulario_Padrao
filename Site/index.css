@@ -1,0 +1,16 @@
+body{
+    background-color:white;
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 0px 30px;
+}
+
+.label{
+    max-width: 530px;
+    display:grid;
+}
+
+.label2{
+    display: inline-block;
+    margin-bottom: 5px;
+}
